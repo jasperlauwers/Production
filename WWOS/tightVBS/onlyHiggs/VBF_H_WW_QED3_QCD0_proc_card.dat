@@ -33,5 +33,5 @@ define l- = e- mu- ta-
 define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
 
-generate p p > h j j QED=3 QCD=99, ( h > w+ w-, w+ > l+ vl, w- > l- vl~)
-output VBF_H_WW_QED3_QCD99
+generate p p > h j j QED=3 QCD=0, ( h > w+ w-, w+ > l+ vl, w- > l- vl~)
+output VBF_H_WW_QED3_QCD0

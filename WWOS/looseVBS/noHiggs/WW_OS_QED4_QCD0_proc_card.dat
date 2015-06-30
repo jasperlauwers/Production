@@ -34,4 +34,4 @@ define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
 
 generate p p > w+ w- j j / h QED=4 QCD=0, w+ > l+ vl, w- > l- vl~
-output WW_OS_QED4_QCD0
+output WWjj_OS_ewk_noHiggs

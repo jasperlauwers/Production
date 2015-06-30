@@ -35,4 +35,4 @@ define vl~ = ve~ vm~ vt~
 
 generate    p p > w+ z j j QED=4 QCD=0, w+ > l+ vl  @ 1
 add process p p > w- z j j QED=4 QCD=0, w- > l- vl~  @ 2
-output WZ_QED4_QCD0
+output WZjj_ewk

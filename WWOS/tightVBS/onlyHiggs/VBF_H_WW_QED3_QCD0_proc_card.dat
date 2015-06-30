@@ -34,4 +34,4 @@ define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
 
 generate p p > h j j QED=3 QCD=0, ( h > w+ w-, w+ > l+ vl, w- > l- vl~)
-output VBF_H_WW_QED3_QCD0
+output VBF_H_WW_tightVBS

@@ -33,5 +33,5 @@ define l- = e- mu- ta-
 define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
 
-generate p p > t t~ QED=2 QCD=0
+generate p p > t t~ QED=2 QCD=0, (t > w+ b, w+ > l+ vl), (t~ > w- b~, w- > l- vl~) 
 output TTbar_ewk
